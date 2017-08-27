@@ -1,2 +1,3 @@
-1. ���ú�Python���л���
-2. ֻ��Ҫ�޸�force_query.py�е�id����Ϊ���е�׼��֤��ǰ10λ���֣�����name������Ϊ���Լ������֣��������Ϳ�����
+1. 配置好Python运行环境
+2. 只需要修改force_query.py中的id变量为你中的准考证号前10位数字，并将name变量改为你自己的名字，运行它就可以了
+##测试git的使用。
